@@ -53,7 +53,7 @@ Follow these steps in order to deploy the seed on your machine:
 
 2. Download and extract MongoDB 2.6.3.
 
-3. Clone the project: <code>git clone https://github.com/angyjoe/eventual.git</code>.
+3. Clone the project: <code>git clone https://github.com/vishal-macha/Eventual.git</code>.
 
 4. Start <code>mongod</code> (the daemon process for the MongoDB system).
 
